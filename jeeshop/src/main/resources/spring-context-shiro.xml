@@ -32,7 +32,7 @@
 			<value>
 				/static/** = anon
 				${adminPath}/login = authc
-				${adminPath}/logout = logout
+				${adminPath}/logout = logout 
 			</value>
 		</constructor-arg>
 	</bean>
