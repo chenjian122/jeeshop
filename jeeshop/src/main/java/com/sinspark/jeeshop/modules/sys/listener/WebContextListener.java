@@ -1,4 +1,4 @@
-package com.sinspark.jeeshop.modules.sys.core.listener;
+package com.sinspark.jeeshop.modules.sys.listener;
 
 import javax.servlet.ServletContext;
 
